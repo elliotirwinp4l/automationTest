@@ -1,2 +1,2 @@
 # automationTest
-test1
+test2
